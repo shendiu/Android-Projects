@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color Palette -->
+    <color name="primary_light">#D1C4E9</color>
+    <color name="primary">#673AB7</color>
+    <color name="primary_dark">#512DA8</color>
+
+    <!-- Secondary Color Palette -->
+    <color name="secondary_light">#FFCDD2</color>
+    <color name="secondary">#F44336</color>
+    <color name="secondary_dark">#D32F2F</color>
+
+    <!-- Accent Color -->
+    <color name="accent">#FF4081</color>
+
+    <!-- Neutral Colors -->
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_dark">#616161</color>
+
+    <!-- Success Colors -->
+    <color name="success_light">#A5D6A7</color>
+    <color name="success">#4CAF50</color>
+    <color name="success_dark">#388E3C</color>
+
+    <!-- Error Colors -->
+    <color name="error_light">#EF9A9A</color>
+    <color name="error">#F44336</color>
+    <color name="error_dark">#D32F2F</color>
+
+    <!-- Warning Colors -->
+    <color name="warning_light">#FFE082</color>
+    <color name="warning">#FFC107</color>
+    <color name="warning_dark">#FFA000</color>
+
+    <!-- Info Colors -->
+    <color name="info_light">#81D4FA</color>
+    <color name="info">#2196F3</color>
+    <color name="info_dark">#1976D2</color>
+
+    <!-- Custom Colors -->
+    <color name="custom_red">#E53935</color>
+    <color name="custom_pink">#D81B60</color>
+    <color name="custom_purple">#8E24AA</color>
+    <color name="custom_deep_purple">#5E35B1</color>
+    <color name="custom_indigo">#3949AB</color>
+    <color name="custom_blue">#1E88E5</color>
+    <color name="custom_light_blue">#039BE5</color>
+    <color name="custom_cyan">#00ACC1</color>
+    <color name="custom_teal">#00897B</color>
+    <color name="custom_green">#43A047</color>
+    <color name="custom_light_green">#7CB342</color>
+    <color name="custom_lime">#C0CA33</color>
+    <color name="custom_yellow">#FDD835</color>
+    <color name="custom_amber">#FB8C00</color>
+    <color name="custom_orange">#F4511E</color>
+    <color name="custom_deep_orange">#E64A19</color>
+    <color name="custom_brown">#6D4C41</color>
+    <color name="custom_grey">#757575</color>
+    <color name="custom_blue_grey">#546E7A</color>
+
+    <!-- Transparent Colors -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#88000000</color>
+    <color name="semi_transparent_white">#88FFFFFF</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#303030</color>
+
+    <!-- Surface Colors -->
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#424242</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_disabled">#BDBDBD</color>
+    <color name="text_hint">#9E9E9E</color>
+    <color name="text_icon">#757575</color>
+</resources>
