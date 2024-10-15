@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="save_me">Save Me!</string>
+</resources>

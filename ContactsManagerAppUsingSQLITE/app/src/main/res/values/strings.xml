@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contacts Manager App Using SQLITE</string>
+    <string name="sent_data">Sent data</string>
+</resources>
